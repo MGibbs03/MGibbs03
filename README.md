@@ -40,21 +40,21 @@
 
 ## Repos
 ### Power BI
- - [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard)
+📊 - [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard)
 
 ### R
-#### - [Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis)
-#### - [Smoking Cessation and BMI Change - IPW](https://github.com/MGibbs03/R_Smoking-Cessation-IPW)
-#### - [How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis)
-#### - [Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model)
+🫀 - [Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis)
+🫀 - [Smoking Cessation and BMI Change - IPW](https://github.com/MGibbs03/R_Smoking-Cessation-IPW)
+🫀 - [How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis)
+🫀 - [Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model)
 
 ### SQL
-#### - [Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries)
+📊 - [Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries)
 
 ### Python
-#### - [NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis)
+🫀 - [NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis)
 
 ### Tableau
-#### - [Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard)
+📊 - [Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard)
 
 
