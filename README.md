@@ -18,7 +18,6 @@
 - DAX
 - Tableau
 - Excel
-- Git & GitHub
 - ETL / ELT
 - API integration
 - Statistical analysis / validation
