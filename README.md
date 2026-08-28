@@ -38,4 +38,16 @@
 - Developing and validating **machine learning models** and large language models (**LLM**).
 - Developing endpoint **API** **integration** and automation
 
+## Repos
+### R
+- [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard)
+
+### SQL
+
+### Python
+
+### Power BI
+
+### Tableau
+
 
