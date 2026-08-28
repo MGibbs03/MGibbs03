@@ -1,7 +1,7 @@
 # Matthew Gibbs
 Data Engineer | Data Analyst | Power BI Developer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w_icons=true
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w_icons=true)
 
 ## 🚀 Currently Working At HF Holidays
 
