@@ -44,8 +44,11 @@
 
 ### R
 🫀 - [Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis)
+
 🫀 - [Smoking Cessation and BMI Change - IPW](https://github.com/MGibbs03/R_Smoking-Cessation-IPW)
+
 🫀 - [How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis)
+
 🫀 - [Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model)
 
 ### SQL
