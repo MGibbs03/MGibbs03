@@ -40,14 +40,14 @@
 
 ## Projects
 ### Business 📊 
-- [House Manager Dashboard - Power BI](https://github.com/MGibbs03/BI_Housing_Dashboard)
-- [Superstore Sales Analysis - SQL](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries)
-- [Superstore Sales  Dashboard - Tableau](https://github.com/MGibbs03/Tableau_Superstore_Dashboard)
+- [Power BI - House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard)
+- [SQL - Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries)
+- [Tableau - Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard)
 
 ### Health 🫀
-- [Hormone-Treatment Survival-Risk Analysis - R](https://github.com/MGibbs03/R_Survival-Risk-Analysis)
-- [NHS Data Analysis - Python](https://github.com/MGibbs03/Python_NHS_Analysis)
-- [Smoking Cessation and BMI Change (IPW) - R](https://github.com/MGibbs03/R_Smoking-Cessation-IPW)
-- [How the internal contingencies of self-esteem influence Eating Disorder behaviours - R](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis)
-- [Heart Failure Prediction Model - R](https://github.com/MGibbs03/R_Heart_failure_Prediction_model)
+- [R - Hormone-Treatment Survival-Risk Analysis ](https://github.com/MGibbs03/R_Survival-Risk-Analysis)
+- [Python - NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis)
+- [R - Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW)
+- [R - How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis)
+- [R - Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model)
 
