@@ -1,7 +1,7 @@
 # Matthew Gibbs
 Data Engineer | Data Analyst | Power BI Developer
 
-## 🏢 Currently Working At HF Holidays
+## 🏢 Current employment - HF Holidays
 
 - Building scalable data models.
 - Cleaning and transforming raw data for analysis.
