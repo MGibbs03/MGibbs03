@@ -1,4 +1,4 @@
-# Matthew Gibbs
+<img width="1274" height="713" alt="image" src="https://github.com/user-attachments/assets/347a81d3-3c52-499d-9e56-2a57b2e48e8f" /># Matthew Gibbs
 Data Engineer | Data Analyst | Power BI Developer
 
 ## 🏢 Current employment - HF Holidays
@@ -27,17 +27,17 @@ Data Engineer | Data Analyst | Power BI Developer
 
 
 ## 📓 Experience
-- Designing and maintaining data models, ETL pipelines, and automated reporting solutions.
-- Developing Power BI dashboards, semantic models, and KPI reporting systems.
+- Designing and maintaining **data models**, **ETL pipelines**, and **automated reporting solutions**.
+- Developing Power BI **dashboards**, **semantic models**, and **KPI reporting** systems.
 - Cleaning, transforming, and validating complex datasets from multiple sources.
-- Performing exploratory data analysis (EDA) and developing data visualisations to communicate insights.
-- Writing advanced SQL queries for data extraction, optimisation, and analysis.
+- Performing exploratory data analysis (**EDA**) and developing data **visualisations** to communicate insights.
+- Writing **advanced SQL** queries for data **extraction**, **optimisation**, and **analysis**.
 - Conducting statistical analyses using R, including linear, logistic, and hierarchical regression modelling.
-- Building and validating predictive models using cross-validation, bootstrap resampling, calibration assessment, and discrimination metrics (AUC).
-- Performing survival analyses using Kaplan-Meier estimation, log-rank testing, and Cox proportional hazards models.
-- Applying causal inference techniques including propensity score modelling and inverse probability weighting (IPW).
-- Assessing model assumptions and diagnostics using QQ plots, residual analysis, variance inflation factors (VIF), Schoenfeld residuals, and goodness-of-fit testing.
-- Developing and validating machine learning models and translating findings into actionable business insights.
-- Developing endpoint API integration and automation
+- Building and validating **predictive models** using **cross-validation**, **bootstrap resampling**, **calibration assessment**, and **discrimination metrics (AUC)**.
+- Performing **survival analyses** using** Kaplan-Meier** estimation, **log-rank testing**, and **Cox proportional hazards** models.
+- Applying causal inference techniques including **propensity score modelling** and inverse probability weighting (**IPW**).
+- Assessing model assumptions and diagnostics using **QQ plots**, **residual analysis**, variance inflation factors (**VIF**), **Schoenfeld residuals**, and **goodness-of-fit testing**.
+- Developing and validating **machine learning models** and large language models (**LLM**).
+- Developing endpoint **API** **integration** and automation
 
 
