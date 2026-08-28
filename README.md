@@ -41,13 +41,20 @@
 ## Projects
 ### Business 📊 
 - [Power BI - House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard)
+
 - [SQL - Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries)
+
 - [Tableau - Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard)
 
 ### Health 🫀
 - [R - Hormone-Treatment Survival-Risk Analysis ](https://github.com/MGibbs03/R_Survival-Risk-Analysis)
-- [Python - NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis)
+
 - [R - Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW)
+
 - [R - How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis)
+
 - [R - Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model)
+
+- [Python - NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis)
+
 
