@@ -30,6 +30,7 @@ Data Engineer | Data Analyst | Power BI Developer
 - Designing and maintaining data models, ETL pipelines, and automated reporting solutions.
 - Developing Power BI dashboards, semantic models, and KPI reporting systems.
 - Cleaning, transforming, and validating complex datasets from multiple sources.
+- Performing exploratory data analysis (EDA) and developing data visualisations to communicate insights.
 - Writing advanced SQL queries for data extraction, optimisation, and analysis.
 - Conducting statistical analyses using R, including linear, logistic, and hierarchical regression modelling.
 - Building and validating predictive models using cross-validation, bootstrap resampling, calibration assessment, and discrimination metrics (AUC).
