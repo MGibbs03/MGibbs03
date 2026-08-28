@@ -1,4 +1,3 @@
-# Matthew Gibbs
 Data Analyst | Data Engineer
 
 ## 🏢 Current employment - HF Holidays
