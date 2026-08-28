@@ -33,7 +33,7 @@
 - Writing **advanced SQL** queries for data **extraction**, **optimisation**, and **analysis**.
 - Conducting statistical analyses using R, including linear, logistic, and hierarchical regression modelling.
 - Building and validating **predictive models** using **cross-validation**, **bootstrap resampling**, **calibration assessment**, and **discrimination metrics (AUC)**.
-- Performing **survival analyses** using** Kaplan-Meier** estimation, **log-rank testing**, and **Cox proportional hazards** models.
+- Performing **survival analyses** using **Kaplan-Meier** estimation, **log-rank testing**, and **Cox proportional hazards** models.
 - Applying causal inference techniques including **propensity score modelling** and inverse probability weighting (**IPW**).
 - Assessing model assumptions and diagnostics using **QQ plots**, **residual analysis**, variance inflation factors (**VIF**), **Schoenfeld residuals**, and **goodness-of-fit testing**.
 - Developing and validating **machine learning models** and large language models (**LLM**).
