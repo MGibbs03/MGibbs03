@@ -38,7 +38,7 @@
 - Developing and validating **machine learning models** and large language models (**LLM**).
 - Developing endpoint **API** **integration** and automation
 
-## Repos
+## Projects
 ### Business 📊 
 - [House Manager Dashboard - Power BI](https://github.com/MGibbs03/BI_Housing_Dashboard)
 - [Superstore Sales Analysis - SQL](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries)
