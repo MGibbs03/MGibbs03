@@ -40,7 +40,7 @@
 
 ## Repos
 ### Power BI
-#### - [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard)
+ - [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard)
 
 ### R
 #### - [Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis)
