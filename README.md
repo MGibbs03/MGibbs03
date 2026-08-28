@@ -1,4 +1,4 @@
-<img width="1274" height="713" alt="image" src="https://github.com/user-attachments/assets/347a81d3-3c52-499d-9e56-2a57b2e48e8f" /># Matthew Gibbs
+# Matthew Gibbs
 Data Engineer | Data Analyst | Power BI Developer
 
 ## 🏢 Current employment - HF Holidays
