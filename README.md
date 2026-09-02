@@ -31,7 +31,7 @@
 - Developing API integrations and **automated data workflows**.
 - Writing advanced SQL queries for data extraction, optimisation, and analysis.
 
-### 💼 Business Intelligence
+### 💼 Business Intelligence 
 - Developing Power BI **dashboards**, **semantic models**, and **KPI reporting** systems.
 - Creating interactive reports to support operational and strategic decision-making.
 - Translating business requirements into data-driven insights and visualisations.
@@ -61,6 +61,7 @@
 | 🔍 | R | [Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW) |
 | 🔍 | R | [How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis) |
 | 🔍 | Python | [NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis) |
+| 🤖 = Predictive Analytics & Machine Learning 🔍 = Statistical Analysis & Research 💼 = Business Intelligence 🏗️ = Data Engineering & Modelling |
 
 
 
