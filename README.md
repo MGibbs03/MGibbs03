@@ -34,7 +34,7 @@
 | 🏗️/💼 | Power BI | [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard) |
 | 🏗️ | SQL | [Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries) |
 | 💼 | Tableau | [Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard) |
-| 🤖/🔍 | R | [Machine Learning - Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model) |
+| 🤖/🔍 | R | [Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model) |
 | 🔍 | R | [Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis) |
 | 🔍 | R | [Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW) |
 | 🔍 | R | [How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis) |
