@@ -21,7 +21,7 @@
 - ETL / ELT
 - API integration
 - Statistical analysis / validation
-- Modelling Machine learning 
+- Machine learning / AI
 
 ## Projects
 ### Business 📊 
@@ -48,7 +48,7 @@
 - Designing and maintaining **data models**, **ETL pipelines**, and **automated reporting solutions**.
 - Cleaning, transforming, and validating complex datasets from multiple sources.
 - Developing API integrations and **automated data workflows**.
-- Writing **advanced SQL** queries for data **extraction**, **optimisation**, and **analysis**.
+- Writing **advanced SQL** queries for data extraction, optimisation, and analysis.
 
 ### 💼 Business Intelligence
 - Developing Power BI **dashboards**, **semantic models**, and **KPI reporting** systems.
@@ -58,10 +58,13 @@
 ### 🔍 Statistical Analysis & Research
 - Performing **exploratory data analysis** (EDA) and developing data visualisations to **communicate insights**.
 - Conducting statistical analyses using R, including linear, logistic, and hierarchical **regression modelling**.
-- Performing **survival analyses** using **Kaplan-Meier** estimation, **log-rank testing**, and **Cox proportional hazards** models.
+- Performing **survival analyses** using Kaplan-Meier estimation, log-rank testing, and Cox proportional hazards models.
 - Applying causal inference techniques including **propensity score modelling** and inverse probability weighting (**IPW**).
-- Assessing model assumptions and diagnostics using **QQ plots**, **residual analysis**, variance inflation factors (**VIF**), **Schoenfeld residuals**, and **goodness-of-fit testing**.
+- Conducting correlation analyses, hypothesis testing, and model diagnostics.
+- Assessing model assumptions and diagnostics using QQ plots, residual analysis, variance inflation factors (VIF), Schoenfeld residuals, and goodness-of-fit testing.
 
 ### 🤖 Predictive Analytics & Machine Learning
-- Building and validating predictive **machine learning models** using **cross-validation**, **bootstrap resampling**, **bi-directional, stepwise AIC selection**, **calibration assessment**, and **discrimination metrics (AUC)**.
-- Evaluating model performance using discrimination metrics such as AUC.
+- Building **predictive models** using logistic regression, bi-directional stepwise AIC variable selection
+- Splitting data into training and testing sets.
+- **Validating** models using **5-fold cross-validation**, bootstrap resampling, calibration assessment, and discrimination metrics (AUC).
+- Conducting subgroup and sensitivity analyses.
