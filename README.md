@@ -21,7 +21,7 @@
 - ETL / ELT
 - API integration
 - Statistical analysis / validation
-- Machine learning / AI
+- Modelling Machine learning 
 
 ## Projects
 ### Business 📊 
@@ -43,16 +43,25 @@
 - [Python - NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis)
 
 ## 📓 Experience
+
+### Data Engineering & Modelling
 - Designing and maintaining **data models**, **ETL pipelines**, and **automated reporting solutions**.
-- Developing Power BI **dashboards**, **semantic models**, and **KPI reporting** systems.
 - Cleaning, transforming, and validating complex datasets from multiple sources.
-- Performing exploratory data analysis (**EDA**) and developing data **visualisations** to communicate insights.
+- Developing **API** **integrations** and automated data workflows.
 - Writing **advanced SQL** queries for data **extraction**, **optimisation**, and **analysis**.
+
+### Business Intelligence
+- Developing Power BI **dashboards**, **semantic models**, and **KPI reporting** systems.
+- Creating interactive reports to support operational and strategic decision-making.
+- Translating business requirements into data-driven insights and visualisations.
+
+### Statistical Analysis & Research
+- Performing exploratory data analysis (**EDA**) and developing data **visualisations** to communicate insights.
 - Conducting statistical analyses using R, including linear, logistic, and hierarchical regression modelling.
-- Building and validating **predictive machine learning models** using **cross-validation**, **bootstrap resampling**, **calibration assessment**, and **discrimination metrics (AUC)**.
 - Performing **survival analyses** using **Kaplan-Meier** estimation, **log-rank testing**, and **Cox proportional hazards** models.
 - Applying causal inference techniques including **propensity score modelling** and inverse probability weighting (**IPW**).
 - Assessing model assumptions and diagnostics using **QQ plots**, **residual analysis**, variance inflation factors (**VIF**), **Schoenfeld residuals**, and **goodness-of-fit testing**.
-- Developing and validating **machine learning models** and large language models (**LLM**).
-- Developing endpoint **API** **integration** and automation
 
+### Predictive Analytics & Machine Learning
+- Building and validating predictive **machine learning models** using **cross-validation**, **bootstrap resampling**, **calibration assessment**, and **discrimination metrics (AUC)**.
+- Evaluating model performance using discrimination metrics such as AUC.
