@@ -24,9 +24,9 @@
 - Machine learning / AI
 
 ## 📁 Projects
-> 🏗️ Data Engineering & Modelling,
-> 💼 Business Intelligence,
-> 🤖 Machine Learning & Predictive Analytics,
+> 🏗️ Data Engineering & Modelling <br/>
+> 💼 Business Intelligence <br/>
+> 🤖 Machine Learning & Predictive Analytics <br/>
 > 🔍 Statistical Analysis & Research
 
 | Area | Tool | Project |
