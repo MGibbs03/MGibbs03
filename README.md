@@ -50,18 +50,18 @@
 - **Validating** models using **5-fold cross-validation**, bootstrap resampling, calibration assessment, and discrimination metrics (AUC).
 - Conducting subgroup and sensitivity analyses.
 
-## Projects
+## 📁 Projects
 | Area | Tool | Project |
 |--------|--------|--------|
 | 🏗️/💼 | Power BI | [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard) |
 | 🏗️/💼 | Tableau | [Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard) |
 | 🏗️ | SQL | [Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries) |
-| 🤖 | R | [Machine Learning - Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model) |
+| 🤖/🔍 | R | [Machine Learning - Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model) |
 | 🔍 | R | [Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis) |
 | 🔍 | R | [Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW) |
 | 🔍 | R | [How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis) |
 | 🔍 | Python | [NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis) |
-| 🤖 = Predictive Analytics & Machine Learning 🔍 = Statistical Analysis & Research 💼 = Business Intelligence 🏗️ = Data Engineering & Modelling |
+> 🤖 = Predictive Analytics & Machine Learning 🔍 = Statistical Analysis & Research 💼 = Business Intelligence 🏗️ = Data Engineering & Modelling
 
 
 
