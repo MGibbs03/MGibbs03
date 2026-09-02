@@ -32,16 +32,16 @@
 - Writing advanced SQL queries for data extraction, optimisation, and analysis.
 #### Projects
 - [Power BI - House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard)
-- [SQL - Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries)
-<br/>
+- [SQL - Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries) <br/>
+
 ### 💼 Business Intelligence
 - Developing Power BI **dashboards**, **semantic models**, and **KPI reporting** systems.
 - Creating interactive reports to support operational and strategic decision-making.
 - Translating business requirements into data-driven insights and visualisations.
 #### Projects
 - [Power BI - House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard)
-- [Tableau - Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard)
-<br/>
+- [Tableau - Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard) <br/>
+
 ### 🔍 Statistical Analysis & Research
 - Performing **exploratory data analysis** (EDA) and developing data visualisations to **communicate insights**.
 - Conducting statistical analyses using R, including linear, logistic, and hierarchical **regression modelling**.
@@ -53,8 +53,8 @@
 - [R - Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis)
 - [R - Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW)
 - [R - How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis)
-- [Python - NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis)
-<br/>
+- [Python - NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis) <br/>
+
 ### 🤖 Predictive Analytics & Machine Learning
 - Building **predictive models** using logistic regression, bi-directional stepwise AIC variable selection
 - Splitting data into training and testing sets.
