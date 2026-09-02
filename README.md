@@ -34,6 +34,7 @@
 - [Power BI - House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard)
 - [SQL - Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries)
 
+
 ### 💼 Business Intelligence
 - Developing Power BI **dashboards**, **semantic models**, and **KPI reporting** systems.
 - Creating interactive reports to support operational and strategic decision-making.
@@ -41,6 +42,7 @@
 #### Projects
 - [Power BI - House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard)
 - [Tableau - Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard)
+
 
 ### 🔍 Statistical Analysis & Research
 - Performing **exploratory data analysis** (EDA) and developing data visualisations to **communicate insights**.
