@@ -24,7 +24,7 @@
 - Machine learning / AI
 
 ## 📁 Projects
-> 💼 = Business Intelligence | 🏗️ = Data Engineering & Modelling | 🤖 = Machine learning & Predictive Analysis | 🔍 = Statistical Analysis & Research <br/>
+> 🏗️ = Data Engineering & Modelling | 💼 = Business Intelligence | 🤖 = Machine learning & Predictive Analysis | 🔍 = Statistical Analysis & Research <br/>
 
 | Area | Tool | Project |
 |--------|--------|--------|
