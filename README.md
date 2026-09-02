@@ -25,7 +25,7 @@
 
 ## 📓 Experience
 
-### 🏗️ Data Engineering & Modelling
+### <ins> 🏗️ Data Engineering & Modelling </ins>
 - Designing and maintaining **data models**, **ETL pipelines**, and **automated reporting solutions**.
 - Cleaning, transforming, and validating complex datasets from multiple sources.
 - Developing API integrations and **automated data workflows**.
@@ -35,7 +35,7 @@
 - [SQL - Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries)
 
 
-### 💼 Business Intelligence
+### <ins> 💼 Business Intelligence </ins>
 - Developing Power BI **dashboards**, **semantic models**, and **KPI reporting** systems.
 - Creating interactive reports to support operational and strategic decision-making.
 - Translating business requirements into data-driven insights and visualisations.
@@ -44,7 +44,7 @@
 - [Tableau - Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard)
 
 
-### 🔍 Statistical Analysis & Research
+### <ins> 🔍 Statistical Analysis & Research </ins>
 - Performing **exploratory data analysis** (EDA) and developing data visualisations to **communicate insights**.
 - Conducting statistical analyses using R, including linear, logistic, and hierarchical **regression modelling**.
 - Performing **survival analyses** using Kaplan-Meier estimation, log-rank testing, and Cox proportional hazards models.
@@ -58,7 +58,7 @@
 - [Python - NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis)
 
 
-### 🤖 Predictive Analytics & Machine Learning
+### <ins> 🤖 Predictive Analytics & Machine Learning </ins>
 - Building **predictive models** using logistic regression, bi-directional stepwise AIC variable selection
 - Splitting data into training and testing sets.
 - **Validating** models using **5-fold cross-validation**, bootstrap resampling, calibration assessment, and discrimination metrics (AUC).
