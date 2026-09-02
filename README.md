@@ -49,7 +49,7 @@
 - Performing exploratory data analysis (**EDA**) and developing data **visualisations** to communicate insights.
 - Writing **advanced SQL** queries for data **extraction**, **optimisation**, and **analysis**.
 - Conducting statistical analyses using R, including linear, logistic, and hierarchical regression modelling.
-- Building and validating *predictive machine learning models* using **cross-validation**, **bootstrap resampling**, **calibration assessment**, and **discrimination metrics (AUC)**.
+- Building and validating **predictive machine learning models** using **cross-validation**, **bootstrap resampling**, **calibration assessment**, and **discrimination metrics (AUC)**.
 - Performing **survival analyses** using **Kaplan-Meier** estimation, **log-rank testing**, and **Cox proportional hazards** models.
 - Applying causal inference techniques including **propensity score modelling** and inverse probability weighting (**IPW**).
 - Assessing model assumptions and diagnostics using **QQ plots**, **residual analysis**, variance inflation factors (**VIF**), **Schoenfeld residuals**, and **goodness-of-fit testing**.
