@@ -25,6 +25,7 @@
 
 ## 📁 Projects
 > 💼 = Business Intelligence | 🏗️ = Data Engineering & Modelling | 🤖 = Machine learning & Predictive Analysis | 🔍 = Statistical Analysis & Research
+
 | Area | Tool | Project |
 |--------|--------|--------|
 | 🏗️/💼 | Power BI | [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard) |
