@@ -32,13 +32,13 @@
 - [Tableau - Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard)
 
 ### Health 🫀
+- [R / Machine Learning - Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model)
+
 - [R - Hormone-Treatment Survival-Risk Analysis ](https://github.com/MGibbs03/R_Survival-Risk-Analysis)
 
 - [R - Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW)
 
 - [R - How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis)
-
-- [R - Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model)
 
 - [Python - NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis)
 
@@ -49,7 +49,7 @@
 - Performing exploratory data analysis (**EDA**) and developing data **visualisations** to communicate insights.
 - Writing **advanced SQL** queries for data **extraction**, **optimisation**, and **analysis**.
 - Conducting statistical analyses using R, including linear, logistic, and hierarchical regression modelling.
-- Building and validating **predictive models** using **cross-validation**, **bootstrap resampling**, **calibration assessment**, and **discrimination metrics (AUC)**.
+- Building and validating *predictive machine learning models* using **cross-validation**, **bootstrap resampling**, **calibration assessment**, and **discrimination metrics (AUC)**.
 - Performing **survival analyses** using **Kaplan-Meier** estimation, **log-rank testing**, and **Cox proportional hazards** models.
 - Applying causal inference techniques including **propensity score modelling** and inverse probability weighting (**IPW**).
 - Assessing model assumptions and diagnostics using **QQ plots**, **residual analysis**, variance inflation factors (**VIF**), **Schoenfeld residuals**, and **goodness-of-fit testing**.
