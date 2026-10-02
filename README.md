@@ -38,7 +38,6 @@
 | 🤖/💼 | R + Power BI | [CLV Prediction Model]([(https://github.com/MGibbs03/Customer-Lifetime-Value-CLV-Prediction-Model)) |
 | 🤖/💼 | R | [CSQs Sentiment Analysisl](https://github.com/MGibbs03/CSQ-Sentiment-Analysis-Model) |
 | 🏗️/🤖/💼 | R + Power BI | [Tour Recommendation Model](https://github.com/MGibbs03/Tour_Recommendation_Model) |
-
 | 🤖/🔍 | R | [Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model) |
 | 🔍 | R | [Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis) |
 | 🔍 | R | [Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW) |
