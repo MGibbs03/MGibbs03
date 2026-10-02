@@ -31,7 +31,6 @@
 
 | Area | Tool | Project | Difficulty |
 |--------|--------|--------|--------|
-
 | 🏗️ | SQL | [Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries) | ⭐ |
 | 💼 | Tableau | [Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard) | ⭐ |
 | 🔍 | Python | [NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis) | ⭐⭐ |
