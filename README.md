@@ -43,6 +43,8 @@
 | [Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis) | ⭐⭐⭐⭐⭐ | 🔍 | R |
 | [Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW) | ⭐⭐⭐⭐⭐ | 🔍 | R |
 | [Tour Recommendation Model](https://github.com/MGibbs03/Tour_Recommendation_Model) | ⭐⭐⭐⭐⭐ | 🏗️/🤖/💼 | R + Power BI |
+| [Marketing Dashboard] | | | |
+| Cancellation Dashboard | | | |
 
 
 ## 📓 Experience
