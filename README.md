@@ -29,7 +29,7 @@
 > 🤖 Machine Learning & Predictive Analytics <br/>
 > 🔍 Statistical Analysis & Research
 
-| Area | Tool | Project | Difficulty |
+| Project | Difficulty | Area | Tool |
 |--------|--------|--------|--------|
 | [Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries) | ⭐ | 🏗️ | SQL |
 | [Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard) | ⭐ | 💼 | Tableau |
