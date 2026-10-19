@@ -42,7 +42,7 @@
 | [How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis) | ⭐⭐⭐⭐ | 🔍 | R | 
 | [Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis) | ⭐⭐⭐⭐⭐ | 🔍 | R |
 | [Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW) | ⭐⭐⭐⭐⭐ | 🔍 | R |
-| [Tour Recommendation Model](https://github.com/MGibbs03/Tour_Recommendation_Model) | ⭐⭐⭐⭐⭐ | 🏗️/🤖/💼 | R + Power BI |
+| [Customer Propensity Modell](https://github.com/MGibbs03/Tour_Recommendation_Model) | ⭐⭐⭐⭐⭐ | 🏗️/🤖/💼 | R + Power BI |
 | Marketing Dashboard | tbc | tbc | tbc |
 | Cancellation Dashboard | tbc | tbc | tbc |
 
