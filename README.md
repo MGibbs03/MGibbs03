@@ -29,20 +29,20 @@
 > 🤖 Machine Learning & Predictive Analytics <br/>
 > 🔍 Statistical Analysis & Research
 
-| Project | Difficulty | Area | Tool |
+| Project | Complexity | Area | Tool |
 |--------|--------|--------|--------|
-| [Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries) | ⭐ | 🏗️ | SQL |
-| [Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard) | ⭐ | 💼 | Tableau |
-| [NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis) | ⭐⭐ | 🔍 | Python 
-| [Tour Performance Analysis](https://github.com/MGibbs03/Tour_Explanation_Analysis_And_Dashboard) | ⭐⭐⭐ | 🏗️/🔍/💼 | R + Power BI | 
-| [CLV Prediction Model](https://github.com/MGibbs03/Customer-Lifetime-Value-CLV-Prediction-Model) | ⭐⭐⭐ | 🏗️/🤖/💼 | R + Power BI |
-| [CSQs Sentiment Analysisl](https://github.com/MGibbs03/CSQ-Sentiment-Analysis-Model) | ⭐⭐⭐ | 🤖/💼 | R |
-| [Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model) | ⭐⭐⭐⭐ | 🤖/🔍 | R |
-| [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard) | ⭐⭐⭐⭐ | 🏗️/💼 | Power BI | 
-| [How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis) | ⭐⭐⭐⭐ | 🔍 | R | 
-| [Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis) | ⭐⭐⭐⭐⭐ | 🔍 | R |
-| [Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW) | ⭐⭐⭐⭐⭐ | 🔍 | R |
-| [Customer Propensity Model](https://github.com/MGibbs03/Tour_Recommendation_Model) | ⭐⭐⭐⭐⭐ | 🏗️/🤖/💼 | R + Power BI |
+| [Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries) | ❗ | 🏗️ | SQL |
+| [Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard) | ❗ | 💼 | Tableau |
+| [NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis) | ❗ | 🔍 | Python 
+| [Tour Performance Analysis](https://github.com/MGibbs03/Tour_Explanation_Analysis_And_Dashboard) | ❗❗ | 🏗️/🔍/💼 | R + Power BI | 
+| [CLV Prediction Model](https://github.com/MGibbs03/Customer-Lifetime-Value-CLV-Prediction-Model) | ❗❗ | 🏗️/🤖/💼 | R + Power BI |
+| [CSQs Sentiment Analysisl](https://github.com/MGibbs03/CSQ-Sentiment-Analysis-Model) | ❗❗ | 🤖/💼 | R |
+| [Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model) | ❗❗ | 🤖/🔍 | R |
+| [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard) | ❗❗❗ | 🏗️/💼 | Power BI | 
+| [How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis) | ❗❗❗ | 🔍 | R | 
+| [Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis) | ❗❗❗ | 🔍 | R |
+| [Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW) | ❗❗❗ | 🔍 | R |
+| [Customer Propensity Model](https://github.com/MGibbs03/Tour_Recommendation_Model) | ❗❗❗ | 🏗️/🤖/💼 | R + Power BI |
 | Marketing Dashboard | tbc | tbc | tbc |
 | Cancellation Dashboard | tbc | tbc | tbc |
 
