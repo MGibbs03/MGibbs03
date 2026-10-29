@@ -29,6 +29,7 @@
 > 🤖 Machine Learning & Predictive Analytics <br/>
 > 🔍 Statistical Analysis & Research
 
+### Simple
 | | Project | Complexity | Area | Tool |
 |--------|--------|--------|--------|--------|
 | **1.** | [Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries) | 2 / 10 | 🏗️ | SQL |
@@ -37,6 +38,8 @@
 | **4.** | [Tour Performance Analysis](https://github.com/MGibbs03/Tour_Explanation_Analysis_And_Dashboard) | 4 / 10 | 🏗️/🔍/💼 | R + Power BI + SQL | 
 | **5.** | [CLV Prediction Model](https://github.com/MGibbs03/Customer-Lifetime-Value-CLV-Prediction-Model) | 5 / 10 | 🏗️/🤖/💼 | R + Power BI + SQL |
 | **6.** | [CSQs Sentiment Analysis](https://github.com/MGibbs03/CSQ-Sentiment-Analysis-Model) | 5 / 10 | 🤖/💼 | R + SQL |
+
+### Complex
 | **7.** | [Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model) | 7 / 10 | 🤖/🔍 | R |
 | **8.** | [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard) | 7 / 10 | 🏗️/💼 | Power BI + SQL | 
 | **9.** | [How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis) | 7 / 10 | 🔍 | R | 
