@@ -40,6 +40,8 @@
 | **6.** | [CSQs Sentiment Analysis](https://github.com/MGibbs03/CSQ-Sentiment-Analysis-Model) | 5 / 10 | 🤖/💼 | R + SQL |
 
 ### Complex
+| | Project | Complexity | Area | Tool |
+|--------|--------|--------|--------|--------|
 | **7.** | [Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model) | 7 / 10 | 🤖/🔍 | R |
 | **8.** | [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard) | 7 / 10 | 🏗️/💼 | Power BI + SQL | 
 | **9.** | [How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis) | 7 / 10 | 🔍 | R | 
