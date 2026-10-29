@@ -33,16 +33,16 @@
 |--------|--------|--------|--------|
 | [Superstore Sales Analysis](https://github.com/MGibbs03/SQL_Superstore_Sales_Queries) | 2 / 10 | 🏗️ | SQL |
 | [Superstore Sales  Dashboard](https://github.com/MGibbs03/Tableau_Superstore_Dashboard) | 2 / 10 | 💼 | Tableau |
-| [NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis) | 3 / 10 | 🔍 | Python 
-| [Tour Performance Analysis](https://github.com/MGibbs03/Tour_Explanation_Analysis_And_Dashboard) | 4 / 10 | 🏗️/🔍/💼 | R + Power BI | 
-| [CLV Prediction Model](https://github.com/MGibbs03/Customer-Lifetime-Value-CLV-Prediction-Model) | 5 / 10 | 🏗️/🤖/💼 | R + Power BI |
-| [CSQs Sentiment Analysis](https://github.com/MGibbs03/CSQ-Sentiment-Analysis-Model) | 5 / 10 | 🤖/💼 | R |
+| [NHS Data Analysis](https://github.com/MGibbs03/Python_NHS_Analysis) | 3 / 10 | 🔍 | Python |
+| [Tour Performance Analysis](https://github.com/MGibbs03/Tour_Explanation_Analysis_And_Dashboard) | 4 / 10 | 🏗️/🔍/💼 | R + Power BI + SQL | 
+| [CLV Prediction Model](https://github.com/MGibbs03/Customer-Lifetime-Value-CLV-Prediction-Model) | 5 / 10 | 🏗️/🤖/💼 | R + Power BI + SQL |
+| [CSQs Sentiment Analysis](https://github.com/MGibbs03/CSQ-Sentiment-Analysis-Model) | 5 / 10 | 🤖/💼 | R + SQL |
 | [Heart Failure Prediction Model](https://github.com/MGibbs03/R_Heart_failure_Prediction_model) | 7 / 10 | 🤖/🔍 | R |
-| [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard) | 7 / 10 | 🏗️/💼 | Power BI | 
+| [House Manager Dashboard](https://github.com/MGibbs03/BI_Housing_Dashboard) | 7 / 10 | 🏗️/💼 | Power BI + SQL | 
 | [How the internal contingencies of self-esteem influence Eating Disorder behaviours](https://github.com/MGibbs03/R_Eating-Disorder_Hierarchical_Regression_Analysis) | 7 / 10 | 🔍 | R | 
 | [Hormone-Treatment Survival-Risk Analysis](https://github.com/MGibbs03/R_Survival-Risk-Analysis) | 8 / 10| 🔍 | R |
-| [Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW) | 8 / 10 | 🔍 | R |
-| [Customer Propensity Model](https://github.com/MGibbs03/Tour_Recommendation_Model) | 9 / 10 | 🏗️/🤖/💼 | R + Power BI |
+| [Smoking Cessation and BMI Change (IPW)](https://github.com/MGibbs03/R_Smoking-Cessation-IPW) | 8 / 10 | 🔍 | R  |
+| [Customer Propensity Model](https://github.com/MGibbs03/Tour_Recommendation_Model) | 9 / 10 | 🏗️/🤖/💼 | R + Power BI + SQL |
 | Marketing Dashboard | tbc | tbc | tbc |
 | Cancellation Dashboard | tbc | tbc | tbc |
 
